@@ -1,1 +1,2 @@
 # IsTriangleornot
+IStriangle program checks if the 6 points entered by the user form a triangle or not using the Triangle inequality theorem. In this, I used object-oriented programming. Line and Point are both classes. Point class stores all the points and then send it to the line class. Then line class use triangle inequality formula to calcualte the the distance. Then this distance is returned to amin class(Istriangle) and then we use if conditons to check, if a triangle can be formed or not.
